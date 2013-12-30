@@ -1,6 +1,0 @@
-[submodule "lib/ruff"]
-	path = lib/ruff
-	url = doug@shadowmint.xen.prgmr.com:repo/python/ruff.git
-[submodule "lib/ruffx"]
-	path = lib/ruffx
-	url = doug@shadowmint.xen.prgmr.com:repo/python/ruffx.git
