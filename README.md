@@ -2,6 +2,12 @@
 
 Frontend awesomeness framework
 
+## Hey~!
+
+Hey, this is a work in progress at the moment~
+
+Comments welcome, but for now dont expect everything to work~
+
 ## Depednencies
 
 - libn
